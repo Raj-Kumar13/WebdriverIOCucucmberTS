@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\Pratice WebDriver.IO"
+		},
+		{
+			"path": "..\\..\\..\\..\\Demo"
+		},
+		{
+			"path": "..\\..\\..\\..\\Ud_Webdriver"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
